@@ -16,5 +16,3 @@ En este repositorio, encontrarás mis soluciones a los retos de AdventJS. Para c
 Cada archivo representa mi enfoque personal y solución a los desafíos planteados por AdventJS.
 
 ---
-
-🎁 ¡Disfruta de la programación y felices fiestas!
